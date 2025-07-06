@@ -1,0 +1,1602 @@
+[
+  {
+    "questionId": "q001",
+    "question": "A particle moves along a straight line with constant acceleration. If its initial velocity is 5 m/s and it covers a distance of 45 m in 5 s, what is its acceleration?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²"
+    ],
+    "correctOption": "2 m/s²",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Medium",
+    "source": "JEE 2023",
+    "explanation": "Using $s = ut + \\frac{1}{2}at^2 \\Rightarrow 45 = 5 \\cdot 5 + \\frac{1}{2}a \\cdot 25 \\Rightarrow a = 2 \\text{ m/s}^2$"
+  },
+  {
+    "questionId": "q002",
+    "question": "If the roots of the equation $x^2 - px + q = 0$ are in the ratio 2 : 3, then $q/p^2$ is equal to \u2026",
+    "options": [
+      "6/25",
+      "4/9",
+      "3/10",
+      "5/6"
+    ],
+    "correctOption": "6/25",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "difficulty": "Easy",
+    "source": "Arihant 40 Days",
+    "explanation": "Let roots be $2k$ and $3k$. Sum of roots: $2k+3k=p \\Rightarrow 5k=p$. Product of roots: $2k \\cdot 3k = q \\Rightarrow 6k^2=q$. We need $q/p^2$. Substitute $k = p/5$ into the equation for $q$: $q = 6(p/5)^2 = 6p^2/25$. Therefore, $q/p^2 = 6/25$."
+  },
+  {
+    "questionId": "q003",
+    "question": "A block of mass M is pulled on a horizontal frictionless surface by a rope of mass m. If a force F is applied at one end of the rope, the force the rope exerts on the block is:",
+    "options": [
+      "F",
+      "F(M / (M+m))",
+      "F(m / (M+m))",
+      "F(M+m / M)"
+    ],
+    "correctOption": "F(M / (M+m))",
+    "subject": "Physics",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Medium",
+    "source": "NCERT Exemplar",
+    "explanation": "The acceleration of the system (block + rope) is $a = F / (M+m)$. The force the rope exerts on the block is the force accelerating the block, so $F_{rope} = M \cdot a = M \\cdot (F / (M+m)) = F(M / (M+m))$."
+  },
+  {
+    "questionId": "q004",
+    "question": "The time period of a simple pendulum is T. If its length is increased by 21%, the new time period will be:",
+    "options": [
+      "1.1 T",
+      "1.2 T",
+      "1.3 T",
+      "1.4 T"
+    ],
+    "correctOption": "1.1 T",
+    "subject": "Physics",
+    "topic": "Oscillations",
+    "difficulty": "Easy",
+    "source": "JEE Main Past Year",
+    "explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{L/g}$. If the length is increased by 21%, the new length $L' = L + 0.21L = 1.21L$. The new time period $T' = 2\\pi\\sqrt{1.21L/g} = \\sqrt{1.21} (2\\pi\\sqrt{L/g}) = 1.1 T$."
+  },
+  {
+    "questionId": "q005",
+    "question": "The energy of a photon of wavelength $\\lambda$ is:",
+    "options": [
+      "$hc/\\lambda$",
+      "$h\\lambda/c$",
+      "$c/h\\lambda$",
+      "$hc\\lambda$"
+    ],
+    "correctOption": "$hc/\\lambda$",
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "difficulty": "Easy",
+    "source": "Basic Physics Formulae",
+    "explanation": "The energy of a photon is given by $E = h\\nu$, where $\\nu$ is the frequency. Since $c = \\nu\\lambda$, we have $\\nu = c/\\lambda$. Substituting this into the energy equation, we get $E = hc/\\lambda$."
+  },
+  {
+    "questionId": "q006",
+    "question": "What is the oxidation state of Cr in $K_2Cr_2O_7$?",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+6"
+    ],
+    "correctOption": "+6",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Let the oxidation state of Cr be $x$. For $K_2Cr_2O_7$: $2(+1) + 2(x) + 7(-2) = 0 \\Rightarrow 2 + 2x - 14 = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$."
+  },
+  {
+    "questionId": "q007",
+    "question": "Which of the following has the highest ionization enthalpy?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si"
+    ],
+    "correctOption": "Si",
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Ionization enthalpy generally increases across a period due to increasing effective nuclear charge and decreasing atomic size. Therefore, among Na, Mg, Al, and Si (all in period 3), Si will have the highest ionization enthalpy."
+  },
+  {
+    "questionId": "q008",
+    "question": "The general electronic configuration of d-block elements is:",
+    "options": [
+      "$(n-1)d^{1-10}ns^{1-2}$",
+      "$(n)d^{1-10}ns^{1-2}$",
+      "$(n-1)d^{1-10}np^{1-6}$",
+      "$(n-1)s^2(n-1)p^6nd^{1-10}$"
+    ],
+    "correctOption": "$(n-1)d^{1-10}ns^{1-2}$",
+    "subject": "Chemistry",
+    "topic": "Block Elements",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "The general electronic configuration of d-block elements is $(n-1)d^{1-10}ns^{1-2}$, where $(n-1)d$ refers to the penultimate shell and $ns$ refers to the outermost shell."
+  },
+  {
+    "questionId": "q009",
+    "question": "Which of the following compounds is an example of a coordination compound?",
+    "options": [
+      "$NaCl$",
+      "$CH_4$",
+      "$[Co(NH_3)_6]Cl_3$",
+      "$H_2SO_4$"
+    ],
+    "correctOption": "$[Co(NH_3)_6]Cl_3$",
+    "subject": "Chemistry",
+    "topic": "Coordination Compounds",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Coordination compounds are compounds that contain complex ions, which are formed by the association of a central metal atom or ion with ligands. $[Co(NH_3)_6]Cl_3$ is a classic example of a coordination compound."
+  },
+  {
+    "questionId": "q010",
+    "question": "The number of sigma ($\\sigma$) and pi ($\\pi$) bonds in ethene ($C_2H_4$) are respectively:",
+    "options": [
+      "4 $\\sigma$, 1 $\\pi$",
+      "5 $\\sigma$, 1 $\\pi$",
+      "4 $\\sigma$, 2 $\\pi$",
+      "5 $\\sigma$, 2 $\\pi$"
+    ],
+    "correctOption": "5 $\\sigma$, 1 $\\pi$",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Ethene ($C_2H_4$) has a carbon-carbon double bond and four carbon-hydrogen single bonds. A double bond consists of one $\\sigma$ bond and one $\\pi$ bond. Each single bond is a $\\sigma$ bond. So, there are four C-H $\\sigma$ bonds and one C=C, which contributes one $\\sigma$ and one $\\pi$ bond. Total: 5 $\\sigma$ bonds and 1 $\\pi$ bond."
+  },
+  {
+    "questionId": "q011",
+    "question": "If $y = \\sin(x^2 + 5)$, then $dy/dx$ is:",
+    "options": [
+      "$\\cos(x^2+5)$",
+      "$2x \\cos(x^2+5)$",
+      "$-2x \\cos(x^2+5)$",
+      "$\\sin(2x)$"
+    ],
+    "correctOption": "$2x \\cos(x^2+5)$",
+    "subject": "Mathematics",
+    "topic": "Differentiation",
+    "difficulty": "Easy",
+    "source": "Basic Calculus",
+    "explanation": "Using the chain rule, if $y = f(g(x))$, then $dy/dx = f'(g(x)) \\cdot g'(x)$. Here, $f(u) = \\sin(u)$ and $g(x) = x^2+5$. So, $f'(u) = \\cos(u)$ and $g'(x) = 2x$. Thus, $dy/dx = \\cos(x^2+5) \\cdot 2x = 2x \\cos(x^2+5)$."
+  },
+  {
+    "questionId": "q012",
+    "question": "The value of $\\int_0^1 (x^2 + x) dx$ is:",
+    "options": [
+      "1/3",
+      "1/2",
+      "5/6",
+      "2/3"
+    ],
+    "correctOption": "5/6",
+    "subject": "Mathematics",
+    "topic": "Integration",
+    "difficulty": "Easy",
+    "source": "Basic Calculus",
+    "explanation": "$\\int_0^1 (x^2 + x) dx = [\\frac{x^3}{3} + \\frac{x^2}{2}]_0^1 = (\\frac{1^3}{3} + \\frac{1^2}{2}) - (\\frac{0^3}{3} + \\frac{0^2}{2}) = \\frac{1}{3} + \\frac{1}{2} = \\frac{2+3}{6} = \\frac{5}{6}$."
+  },
+  {
+    "questionId": "q013",
+    "question": "If a matrix $A = \\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}$, then its determinant is:",
+    "options": [
+      "5",
+      "8",
+      "11",
+      "-5"
+    ],
+    "correctOption": "5",
+    "subject": "Mathematics",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy",
+    "source": "Basic Linear Algebra",
+    "explanation": "For a $2 \\times 2$ matrix $A = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$, the determinant is $ad - bc$. So, for the given matrix, determinant $= (2 \\cdot 4) - (3 \\cdot 1) = 8 - 3 = 5$."
+  },
+  {
+    "questionId": "q014",
+    "question": "The number of terms in the expansion of $(x+y)^n$ is:",
+    "options": [
+      "n",
+      "n-1",
+      "n+1",
+      "2n"
+    ],
+    "correctOption": "n+1",
+    "subject": "Mathematics",
+    "topic": "Binomial Theorem",
+    "difficulty": "Easy",
+    "source": "Basic Algebra",
+    "explanation": "According to the Binomial Theorem, the expansion of $(x+y)^n$ has $n+1$ terms."
+  },
+  {
+    "questionId": "q015",
+    "question": "The distance between the points $(1, 2)$ and $(4, 6)$ is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctOption": "5",
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy",
+    "source": "Basic Coordinate Geometry",
+    "explanation": "Using the distance formula, $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$. Here, $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+  },
+  {
+    "questionId": "q016",
+    "question": "A body is thrown vertically upwards with a velocity of 20 m/s. The maximum height reached by the body is (Take $g=10 m/s^2$):",
+    "options": [
+      "10 m",
+      "15 m",
+      "20 m",
+      "25 m"
+    ],
+    "correctOption": "20 m",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Using the equation $v^2 = u^2 + 2as$, at maximum height, $v=0$. So, $0^2 = 20^2 + 2(-10)h \\Rightarrow 0 = 400 - 20h \\Rightarrow 20h = 400 \\Rightarrow h = 20$ m."
+  },
+  {
+    "questionId": "q017",
+    "question": "The critical angle for total internal reflection from a medium to air is $45^\\circ$. The refractive index of the medium is:",
+    "options": [
+      "1.414",
+      "1.5",
+      "1.732",
+      "2.0"
+    ],
+    "correctOption": "1.414",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "source": "NCERT Physics",
+    "explanation": "The critical angle $C$ is related to the refractive index $\\mu$ by the formula $\\sin C = 1/\\mu$. Given $C = 45^\\circ$, $\\sin 45^\\circ = 1/\\sqrt{2}$. So, $1/\\sqrt{2} = 1/\\mu \\Rightarrow \\mu = \\sqrt{2} \\approx 1.414$."
+  },
+  {
+    "questionId": "q018",
+    "question": "Which of the following is an intensive property?",
+    "options": [
+      "Volume",
+      "Mass",
+      "Temperature",
+      "Energy"
+    ],
+    "correctOption": "Temperature",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "source": "Basic Thermodynamics",
+    "explanation": "An intensive property is a physical property of a system that does not depend on the system size or the amount of material in the system. Temperature is an intensive property, while volume, mass, and energy are extensive properties."
+  },
+  {
+    "questionId": "q019",
+    "question": "The SI unit of magnetic field strength is:",
+    "options": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Farad"
+    ],
+    "correctOption": "Tesla",
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "difficulty": "Easy",
+    "source": "Basic Physics Units",
+    "explanation": "The SI unit of magnetic field strength (magnetic flux density) is the Tesla (T)."
+  },
+  {
+    "questionId": "q020",
+    "question": "A parallel plate capacitor has capacitance C. If the distance between the plates is doubled and a dielectric medium of dielectric constant K is introduced between the plates, the new capacitance will be:",
+    "options": [
+      "CK/2",
+      "2CK",
+      "C/2K",
+      "C/K"
+    ],
+    "correctOption": "CK/2",
+    "subject": "Physics",
+    "topic": "Capacitance",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "The capacitance of a parallel plate capacitor is $C = \\epsilon_0 A/d$. When the distance is doubled, $d' = 2d$. When a dielectric of constant K is introduced, $\\epsilon = K\\epsilon_0$. So, the new capacitance $C' = (K\\epsilon_0 A) / (2d) = (K/2) (\\epsilon_0 A/d) = CK/2$."
+  },
+  {
+    "questionId": "q021",
+    "question": "Which of the following is a strong electrolyte?",
+    "options": [
+      "$CH_3COOH$",
+      "$H_2CO_3$",
+      "$NaOH$",
+      "$NH_4OH$"
+    ],
+    "correctOption": "$NaOH$",
+    "subject": "Chemistry",
+    "topic": "Acids, Bases and Salts",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Strong electrolytes dissociate completely in solution. $NaOH$ (sodium hydroxide) is a strong base and hence a strong electrolyte. The others are weak acids or weak bases."
+  },
+  {
+    "questionId": "q022",
+    "question": "The pH of a 0.01 M $HCl$ solution is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
+    "correctOption": "2",
+    "subject": "Chemistry",
+    "topic": "Ionic Equilibrium",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "$HCl$ is a strong acid, so it dissociates completely: $HCl \\rightarrow H^+ + Cl^-$. Thus, $[H^+] = 0.01 M = 10^{-2} M$. The pH is given by $pH = -log[H^+] = -log(10^{-2}) = 2$."
+  },
+  {
+    "questionId": "q023",
+    "question": "Which of the following is used as a purgative?",
+    "options": [
+      "$Mg(OH)_2$",
+      "$MgO$",
+      "$MgCl_2$",
+      "$MgSO_4 \\cdot 7H_2O$"
+    ],
+    "correctOption": "$MgSO_4 \\cdot 7H_2O$",
+    "subject": "Chemistry",
+    "topic": "S-Block Elements",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Magnesium sulfate heptahydrate ($MgSO_4 \\cdot 7H_2O$), commonly known as Epsom salt, is used as a purgative (laxative)."
+  },
+  {
+    "questionId": "q024",
+    "question": "The number of unpaired electrons in $Fe^{2+}$ ion is (Atomic number of Fe = 26):",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "correctOption": "4",
+    "subject": "Chemistry",
+    "topic": "Coordination Compounds",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "The electronic configuration of Fe (Z=26) is $[Ar] 3d^6 4s^2$. For $Fe^{2+}$, two electrons are removed from the 4s orbital, so the configuration becomes $[Ar] 3d^6$. In the 3d orbitals, there are 5 orbitals. When filling 6 electrons, we have one pair and four unpaired electrons (according to Hund's rule)."
+  },
+  {
+    "questionId": "q025",
+    "question": "Which of the following elements has the largest atomic radius?",
+    "options": [
+      "Li",
+      "Na",
+      "K",
+      "Rb"
+    ],
+    "correctOption": "Rb",
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Atomic radius increases down a group due to the addition of new electron shells. Therefore, among Li, Na, K, and Rb (all in Group 1), Rb will have the largest atomic radius."
+  },
+  {
+    "questionId": "q026",
+    "question": "The sum of the series $1 + 2 + 3 + \\dots + n$ is:",
+    "options": [
+      "$n(n+1)/2$",
+      "$n(n-1)/2$",
+      "$n^2$",
+      "$n^3$"
+    ],
+    "correctOption": "$n(n+1)/2$",
+    "subject": "Mathematics",
+    "topic": "Sequences and Series",
+    "difficulty": "Easy",
+    "source": "Basic Algebra",
+    "explanation": "This is the sum of the first $n$ natural numbers, which is given by the formula $S_n = n(n+1)/2$."
+  },
+  {
+    "questionId": "q027",
+    "question": "If $\\vec{a} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$ and $\\vec{b} = \\hat{i} - 2\\hat{j} + 4\\hat{k}$, then $\\vec{a} \\cdot \\vec{b}$ is:",
+    "options": [
+      "-8",
+      "0",
+      "8",
+      "10"
+    ],
+    "correctOption": "-8",
+    "subject": "Mathematics",
+    "topic": "Vector Algebra",
+    "difficulty": "Easy",
+    "source": "Basic Vector Algebra",
+    "explanation": "The dot product of two vectors $\\vec{a} = a_x\\hat{i} + a_y\\hat{j} + a_z\\hat{k}$ and $\\vec{b} = b_x\\hat{i} + b_y\\hat{j} + b_z\\hat{k}$ is given by $\\vec{a} \\cdot \\vec{b} = a_x b_x + a_y b_y + a_z b_z$. So, $\\vec{a} \\cdot \\vec{b} = (2)(1) + (3)(-2) + (-1)(4) = 2 - 6 - 4 = -8$."
+  },
+  {
+    "questionId": "q028",
+    "question": "The area of the triangle formed by the points (0,0), (2,0), and (0,3) is:",
+    "options": [
+      "2 sq units",
+      "3 sq units",
+      "4 sq units",
+      "6 sq units"
+    ],
+    "correctOption": "3 sq units",
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy",
+    "source": "Basic Coordinate Geometry",
+    "explanation": "This is a right-angled triangle with base along the x-axis (length 2) and height along the y-axis (length 3). The area of a triangle is $(1/2) \\times \\text{base} \\times \\text{height} = (1/2) \\times 2 \\times 3 = 3$ sq units."
+  },
+  {
+    "questionId": "q029",
+    "question": "The principal value of $\\sin^{-1}(1/2)$ is:",
+    "options": [
+      "$\\pi/6$",
+      "$\\pi/4$",
+      "$\\pi/3$",
+      "$\\pi/2$"
+    ],
+    "correctOption": "$\\pi/6$",
+    "subject": "Mathematics",
+    "topic": "Inverse Trigonometric Functions",
+    "difficulty": "Easy",
+    "source": "Basic Trigonometry",
+    "explanation": "The principal value branch of $\\sin^{-1}x$ is $[-\\pi/2, \\pi/2]$. Since $\\sin(\\pi/6) = 1/2$, the principal value of $\\sin^{-1}(1/2)$ is $\\pi/6$."
+  },
+  {
+    "questionId": "q030",
+    "question": "The number of ways to arrange the letters of the word 'APPLE' is:",
+    "options": [
+      "60",
+      "120",
+      "30",
+      "24"
+    ],
+    "correctOption": "60",
+    "subject": "Mathematics",
+    "topic": "Permutations and Combinations",
+    "difficulty": "Medium",
+    "source": "Basic Permutations",
+    "explanation": "The word 'APPLE' has 5 letters. The letter 'P' repeats 2 times. The number of arrangements is $5! / 2! = (5 \\times 4 \\times 3 \\times 2 \\times 1) / (2 \\times 1) = 120 / 2 = 60$."
+  },
+  {
+    "questionId": "q031",
+    "question": "A car accelerates uniformly from rest to 108 km/h in 10 s. The distance covered by the car is:",
+    "options": [
+      "150 m",
+      "300 m",
+      "450 m",
+      "600 m"
+    ],
+    "correctOption": "150 m",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Convert velocity to m/s: $108 \\text{ km/h} = 108 \\times (1000/3600) = 30 \\text{ m/s}$. Using $v = u + at$, $30 = 0 + a(10) \\Rightarrow a = 3 \\text{ m/s}^2$. Using $s = ut + (1/2)at^2$, $s = 0(10) + (1/2)(3)(10^2) = (1/2)(3)(100) = 150$ m."
+  },
+  {
+    "questionId": "q032",
+    "question": "A convex lens of focal length 20 cm is placed in contact with a concave lens of focal length 25 cm. The power of the combination is:",
+    "options": [
+      "+1 D",
+      "-1 D",
+      "+5 D",
+      "-5 D"
+    ],
+    "correctOption": "+1 D",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Power of convex lens $P_1 = 100/f_1 = 100/20 = +5 D$. Power of concave lens $P_2 = 100/f_2 = 100/(-25) = -4 D$. Power of combination $P = P_1 + P_2 = 5 - 4 = +1 D$."
+  },
+  {
+    "questionId": "q033",
+    "question": "The temperature at which the RMS speed of oxygen molecules is equal to that of hydrogen molecules at 27°C is:",
+    "options": [
+      "3200 K",
+      "4800 K",
+      "5400 K",
+      "6000 K"
+    ],
+    "correctOption": "4800 K",
+    "subject": "Physics",
+    "topic": "Kinetic Theory of Gases",
+    "difficulty": "Hard",
+    "source": "JEE Advanced Past Year",
+    "explanation": "RMS speed $v_{rms} = \\sqrt{3RT/M}$. For oxygen ($O_2$), $M_{O_2} = 32 \\text{ g/mol}$. For hydrogen ($H_2$), $M_{H_2} = 2 \\text{ g/mol}$. We want $(v_{rms})_{O_2} = (v_{rms})_{H_2}$. So, $\\sqrt{3RT_{O_2}/M_{O_2}} = \\sqrt{3RT_{H_2}/M_{H_2}}$. This implies $T_{O_2}/M_{O_2} = T_{H_2}/M_{H_2}$. Given $T_{H_2} = 27^\\circ C = 300 K$. $T_{O_2}/32 = 300/2 \\Rightarrow T_{O_2} = (300 \\times 32) / 2 = 4800$ K."
+  },
+  {
+    "questionId": "q034",
+    "question": "A wire of resistance R is cut into n equal parts. These parts are then connected in parallel. The equivalent resistance of the combination is:",
+    "options": [
+      "$R/n$",
+      "$nR$",
+      "$R/n^2$",
+      "$n^2R$"
+    ],
+    "correctOption": "$R/n^2$",
+    "subject": "Physics",
+    "topic": "Current Electricity",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "When a wire of resistance R is cut into n equal parts, each part has resistance $r = R/n$. When these n parts are connected in parallel, the equivalent resistance $R_{eq}$ is given by $1/R_{eq} = 1/r + 1/r + \\dots + \\text{n times} = n/r$. So, $R_{eq} = r/n = (R/n)/n = R/n^2$."
+  },
+  {
+    "questionId": "q035",
+    "question": "The magnetic field at the center of a current-carrying circular coil is given by:",
+    "options": [
+      "$\\mu_0 I / 2R$",
+      "$\\mu_0 I / 4\\pi R$",
+      "$\\mu_0 I / R$",
+      "$\\mu_0 I \\pi R$"
+    ],
+    "correctOption": "$\\mu_0 I / 2R$",
+    "subject": "Physics",
+    "topic": "Magnetic Effects of Current",
+    "difficulty": "Easy",
+    "source": "Basic Electromagnetism",
+    "explanation": "The magnetic field at the center of a current-carrying circular coil of radius R and current I is $B = \\mu_0 I / 2R$."
+  },
+  {
+    "questionId": "q036",
+    "question": "Which of the following is the strongest oxidizing agent?",
+    "options": [
+      "$F_2$",
+      "$Cl_2$",
+      "$Br_2$",
+      "$I_2$"
+    ],
+    "correctOption": "$F_2$",
+    "subject": "Chemistry",
+    "topic": "P-Block Elements",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Among the halogens, electronegativity decreases down the group. Fluorine is the most electronegative element and hence the strongest oxidizing agent."
+  },
+  {
+    "questionId": "q037",
+    "question": "The hybridization of carbon in methane ($CH_4$) is:",
+    "options": [
+      "$sp$",
+      "$sp^2$",
+      "$sp^3$",
+      "$dsp^2$"
+    ],
+    "correctOption": "$sp^3$",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "source": "Basic Organic Chemistry",
+    "explanation": "In methane ($CH_4$), the central carbon atom forms four single bonds with four hydrogen atoms. This corresponds to $sp^3$ hybridization, resulting in a tetrahedral geometry."
+  },
+  {
+    "questionId": "q038",
+    "question": "The major product of the reaction of propene with HBr in the presence of peroxide is:",
+    "options": [
+      "1-bromopropane",
+      "2-bromopropane",
+      "1,2-dibromopropane",
+      "Propane"
+    ],
+    "correctOption": "1-bromopropane",
+    "subject": "Chemistry",
+    "topic": "Organic Reactions",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Addition of HBr to an alkene in the presence of peroxide follows the anti-Markovnikov's rule (free radical mechanism). So, the bromine atom adds to the carbon with more hydrogen atoms, leading to 1-bromopropane."
+  },
+  {
+    "questionId": "q039",
+    "question": "The gas responsible for the Bhopal gas tragedy was:",
+    "options": [
+      "Methyl isocyanate",
+      "Phosgene",
+      "Carbon monoxide",
+      "Sulphur dioxide"
+    ],
+    "correctOption": "Methyl isocyanate",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "difficulty": "Easy",
+    "source": "General Knowledge / Chemistry in Everyday Life",
+    "explanation": "The Bhopal gas tragedy in 1984 was caused by the accidental release of methyl isocyanate (MIC) gas."
+  },
+  {
+    "questionId": "q040",
+    "question": "The maximum number of electrons in a subshell with azimuthal quantum number $l=3$ is:",
+    "options": [
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "correctOption": "14",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "For $l=3$, the subshell is an f-subshell. The number of orbitals in a subshell is $2l+1$. So, for $l=3$, number of orbitals $= 2(3)+1 = 7$. Each orbital can hold a maximum of 2 electrons. Therefore, the maximum number of electrons is $7 \\times 2 = 14$."
+  },
+  {
+    "questionId": "q041",
+    "question": "The limit of $( \\sin x / x )$ as $x \\to 0$ is:",
+    "options": [
+      "0",
+      "1",
+      "$\\infty$",
+      "does not exist"
+    ],
+    "correctOption": "1",
+    "subject": "Mathematics",
+    "topic": "Limits",
+    "difficulty": "Easy",
+    "source": "Basic Calculus",
+    "explanation": "This is a fundamental limit in calculus: $\\lim_{x \\to 0} (\\sin x / x) = 1$."
+  },
+  {
+    "questionId": "q042",
+    "question": "If $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$, then $A^{-1}$ is:",
+    "options": [
+      "$\\frac{1}{2} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+      "$\\frac{1}{(-2)} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+      "$\\frac{1}{5} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+      "$\\frac{1}{(-5)} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$"
+    ],
+    "correctOption": "$\\frac{1}{(-2)} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+    "subject": "Mathematics",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Medium",
+    "source": "Basic Linear Algebra",
+    "explanation": "For a $2 \\times 2$ matrix $A = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$, $A^{-1} = \\frac{1}{ad-bc} \\begin{pmatrix} d & -b \\\\ -c & a \\end{pmatrix}$. Here, $det(A) = (1)(4) - (2)(3) = 4 - 6 = -2$. So, $A^{-1} = \\frac{1}{-2} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$."
+  },
+  {
+    "questionId": "q043",
+    "question": "The equation of a straight line passing through the origin and having a slope of 2 is:",
+    "options": [
+      "$y = x + 2$",
+      "$y = 2x$",
+      "$y - 2x = 1$",
+      "$x + 2y = 0$"
+    ],
+    "correctOption": "$y = 2x$",
+    "subject": "Mathematics",
+    "topic": "Straight Lines",
+    "difficulty": "Easy",
+    "source": "Basic Coordinate Geometry",
+    "explanation": "The equation of a straight line is $y = mx + c$, where $m$ is the slope and $c$ is the y-intercept. Since it passes through the origin (0,0), $c=0$. Given slope $m=2$, the equation is $y = 2x$."
+  },
+  {
+    "questionId": "q044",
+    "question": "If $f(x) = x^3$, then $f'(2)$ is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctOption": "12",
+    "subject": "Mathematics",
+    "topic": "Differentiation",
+    "difficulty": "Easy",
+    "source": "Basic Calculus",
+    "explanation": "First, find the derivative of $f(x) = x^3$: $f'(x) = 3x^2$. Now, substitute $x=2$: $f'(2) = 3(2^2) = 3(4) = 12$."
+  },
+  {
+    "questionId": "q045",
+    "question": "The mean of the data 2, 4, 6, 8, 10 is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctOption": "6",
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "difficulty": "Easy",
+    "source": "Basic Statistics",
+    "explanation": "The mean is the sum of all values divided by the number of values. Mean $= (2+4+6+8+10) / 5 = 30 / 5 = 6$."
+  },
+  {
+    "questionId": "q046",
+    "question": "A ball is dropped from a height of 20 m. What is its speed just before hitting the ground? (Take $g=10 m/s^2$)",
+    "options": [
+      "10 m/s",
+      "20 m/s",
+      "30 m/s",
+      "40 m/s"
+    ],
+    "correctOption": "20 m/s",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Medium",
+    "source": "NCERT Physics",
+    "explanation": "Using the equation $v^2 = u^2 + 2as$. Here, $u=0$ (dropped from rest), $a=g=10 m/s^2$, $s=h=20 m$. So, $v^2 = 0^2 + 2(10)(20) = 400 \\Rightarrow v = \\sqrt{400} = 20$ m/s."
+  },
+  {
+    "questionId": "q047",
+    "question": "The phenomenon of light responsible for the blue color of the sky is:",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Scattering",
+      "Dispersion"
+    ],
+    "correctOption": "Scattering",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "source": "General Physics",
+    "explanation": "The blue color of the sky is due to Rayleigh scattering, where shorter wavelengths (like blue) are scattered more effectively by atmospheric particles than longer wavelengths."
+  },
+  {
+    "questionId": "q048",
+    "question": "The work done by a force $\\vec{F} = (2\\hat{i} + 3\\hat{j}) N$ causing a displacement $\\vec{d} = (4\\hat{i} - 2\\hat{j}) m$ is:",
+    "options": [
+      "2 J",
+      "4 J",
+      "6 J",
+      "8 J"
+    ],
+    "correctOption": "2 J",
+    "subject": "Physics",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Medium",
+    "source": "Basic Physics",
+    "explanation": "Work done $W = \\vec{F} \\cdot \\vec{d}$. So, $W = (2\\hat{i} + 3\\hat{j}) \\cdot (4\\hat{i} - 2\\hat{j}) = (2)(4) + (3)(-2) = 8 - 6 = 2$ J."
+  },
+  {
+    "questionId": "q049",
+    "question": "If the kinetic energy of a body is doubled, its momentum will be multiplied by:",
+    "options": [
+      "$\\sqrt{2}$",
+      "2",
+      "4",
+      "$1/\\sqrt{2}$"
+    ],
+    "correctOption": "$\\sqrt{2}$",
+    "subject": "Physics",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Kinetic energy $K = p^2 / 2m$, where $p$ is momentum and $m$ is mass. So, $p = \\sqrt{2mK}$. If $K' = 2K$, then $p' = \\sqrt{2m(2K)} = \\sqrt{2} \\sqrt{2mK} = \\sqrt{2} p$. Thus, momentum is multiplied by $\\sqrt{2}$."
+  },
+  {
+    "questionId": "q050",
+    "question": "A current of 2A flows through a resistor of 10 $\\Omega$. The power dissipated in the resistor is:",
+    "options": [
+      "20 W",
+      "40 W",
+      "100 W",
+      "200 W"
+    ],
+    "correctOption": "40 W",
+    "subject": "Physics",
+    "topic": "Current Electricity",
+    "difficulty": "Easy",
+    "source": "Basic Electricity",
+    "explanation": "Power dissipated $P = I^2 R$. Given $I=2A$ and $R=10 \\Omega$. So, $P = (2^2)(10) = 4 \\times 10 = 40$ W."
+  },
+  {
+    "questionId": "q051",
+    "question": "Which of the following is an electrophile?",
+    "options": [
+      "$NH_3$",
+      "$H_2O$",
+      "$BF_3$",
+      "$OH^-$"
+    ],
+    "correctOption": "$BF_3$",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry Basics",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "Electrophiles are electron-deficient species that can accept an electron pair. $BF_3$ (boron trifluoride) has an incomplete octet for boron and acts as a Lewis acid, thus an electrophile. $NH_3$, $H_2O$, and $OH^-$ are nucleophiles."
+  },
+  {
+    "questionId": "q052",
+    "question": "The IUPAC name of $CH_3CH_2COCH_3$ is:",
+    "options": [
+      "Butan-2-one",
+      "Propanone",
+      "Butanal",
+      "Pentanal"
+    ],
+    "correctOption": "Butan-2-one",
+    "subject": "Chemistry",
+    "topic": "Nomenclature of Organic Compounds",
+    "difficulty": "Easy",
+    "source": "Basic Organic Chemistry",
+    "explanation": "The compound $CH_3CH_2COCH_3$ is a ketone with four carbon atoms in the longest chain, and the carbonyl group is at the second carbon. Therefore, its IUPAC name is butan-2-one."
+  },
+  {
+    "questionId": "q053",
+    "question": "The total number of geometrical isomers for $[Co(en)_2Cl_2]^+$ is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": "2",
+    "subject": "Chemistry",
+    "topic": "Coordination Compounds",
+    "difficulty": "Medium",
+    "source": "JEE Advanced Past Year",
+    "explanation": "For a complex of the type $[Ma_2b_2]^n+$ (where 'a' is a bidentate ligand like 'en' and 'b' is a monodentate ligand like 'Cl'), there are two geometrical isomers: cis and trans. The cis isomer is optically active, existing as a pair of enantiomers, but the question asks for geometrical isomers."
+  },
+  {
+    "questionId": "q054",
+    "question": "The half-life period of a first-order reaction is 60 minutes. What percentage of the reactant will remain after 180 minutes?",
+    "options": [
+      "12.5%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctOption": "12.5%",
+    "subject": "Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "After 1 half-life (60 min), 50% remains. After 2 half-lives (120 min), 25% remains. After 3 half-lives (180 min), 12.5% remains. Or, $N = N_0 (1/2)^n$, where $n = t/t_{1/2} = 180/60 = 3$. So, $N = N_0 (1/2)^3 = N_0/8$. Percentage remaining $= (1/8) \\times 100 = 12.5\\%$."
+  },
+  {
+    "questionId": "q055",
+    "question": "Which of the following is not an ore of iron?",
+    "options": [
+      "Magnetite",
+      "Hematite",
+      "Siderite",
+      "Bauxite"
+    ],
+    "correctOption": "Bauxite",
+    "subject": "Chemistry",
+    "topic": "Metallurgy",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Magnetite ($Fe_3O_4$), Hematite ($Fe_2O_3$), and Siderite ($FeCO_3$) are ores of iron. Bauxite ($Al_2O_3 \\cdot xH_2O$) is an ore of aluminum."
+  },
+  {
+    "questionId": "q056",
+    "question": "The derivative of $\\tan^{-1}(x)$ with respect to $x$ is:",
+    "options": [
+      "$1/(1+x^2)$",
+      "$1/(1-x^2)$",
+      "$\\sec^2 x$",
+      "$-1/(1+x^2)$"
+    ],
+    "correctOption": "$1/(1+x^2)$",
+    "subject": "Mathematics",
+    "topic": "Differentiation",
+    "difficulty": "Easy",
+    "source": "Basic Calculus",
+    "explanation": "The derivative of $\\tan^{-1}(x)$ is a standard derivative formula: $d/dx (\\tan^{-1}(x)) = 1/(1+x^2)$."
+  },
+  {
+    "questionId": "q057",
+    "question": "The number of solutions of $\\sin x = 1/2$ in $[0, 2\\pi]$ is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": "2",
+    "subject": "Mathematics",
+    "topic": "Trigonometric Equations",
+    "difficulty": "Medium",
+    "source": "Basic Trigonometry",
+    "explanation": "In the interval $[0, 2\\pi]$, $\\sin x = 1/2$ has two solutions: $x = \\pi/6$ and $x = 5\\pi/6$."
+  },
+  {
+    "questionId": "q058",
+    "question": "The eccentricty of an ellipse is 1/2 and its major axis is 10. The distance between the foci is:",
+    "options": [
+      "2.5",
+      "5",
+      "7.5",
+      "10"
+    ],
+    "correctOption": "5",
+    "subject": "Mathematics",
+    "topic": "Conic Sections",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "The major axis is $2a = 10$, so $a=5$. The eccentricity $e = 1/2$. The distance between the foci is $2ae$. So, distance $= 2(5)(1/2) = 5$."
+  },
+  {
+    "questionId": "q059",
+    "question": "The value of $\\log_2 8$ is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correctOption": "3",
+    "subject": "Mathematics",
+    "topic": "Logarithms",
+    "difficulty": "Easy",
+    "source": "Basic Algebra",
+    "explanation": "$\\log_2 8 = x$ means $2^x = 8$. Since $2^3 = 8$, $x=3$."
+  },
+  {
+    "questionId": "q060",
+    "question": "If a coin is tossed 3 times, the probability of getting exactly two heads is:",
+    "options": [
+      "1/8",
+      "3/8",
+      "1/2",
+      "5/8"
+    ],
+    "correctOption": "3/8",
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "source": "Basic Probability",
+    "explanation": "Possible outcomes for 3 coin tosses: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT (Total 8 outcomes). Outcomes with exactly two heads: HHT, HTH, THH (Total 3 outcomes). Probability = $3/8$."
+  },
+  {
+    "questionId": "q061",
+    "question": "A body is performing simple harmonic motion with amplitude A. Its speed is half of its maximum speed when its displacement from the mean position is:",
+    "options": [
+      "$A/2$",
+      "$A\\sqrt{3}/2$",
+      "$A/\\sqrt{2}$",
+      "$A/4$"
+    ],
+    "correctOption": "$A\\sqrt{3}/2$",
+    "subject": "Physics",
+    "topic": "Oscillations",
+    "difficulty": "Hard",
+    "source": "JEE Advanced Past Year",
+    "explanation": "The speed of a body in SHM is $v = \\omega \\sqrt{A^2 - y^2}$. Maximum speed $v_{max} = \\omega A$. We are given $v = v_{max}/2$. So, $\\omega \\sqrt{A^2 - y^2} = \\omega A / 2$. Squaring both sides: $A^2 - y^2 = A^2/4 \\Rightarrow y^2 = A^2 - A^2/4 = 3A^2/4 \\Rightarrow y = A\\sqrt{3}/2$."
+  },
+  {
+    "questionId": "q062",
+    "question": "The ratio of specific heats of an ideal gas ($C_p/C_v$) is $\\gamma$. If the gas is compressed adiabatically, the relation between pressure and volume is:",
+    "options": [
+      "$PV = constant$",
+      "$PV^\\gamma = constant$",
+      "$P^\\gamma V = constant$",
+      "$PV^{(1-\\gamma)} = constant$"
+    ],
+    "correctOption": "$PV^\\gamma = constant$",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "source": "Basic Thermodynamics",
+    "explanation": "For an adiabatic process, the relation between pressure and volume of an ideal gas is given by $PV^\\gamma = constant$, where $\\gamma = C_p/C_v$."
+  },
+  {
+    "questionId": "q063",
+    "question": "The de Broglie wavelength of a particle with momentum p is:",
+    "options": [
+      "$h/p$",
+      "$hp$",
+      "$p/h$",
+      "$h/m$"
+    ],
+    "correctOption": "$h/p$",
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "difficulty": "Easy",
+    "source": "Basic Modern Physics",
+    "explanation": "According to de Broglie hypothesis, the wavelength associated with a particle is $\\lambda = h/p$, where $h$ is Planck's constant and $p$ is the momentum of the particle."
+  },
+  {
+    "questionId": "q064",
+    "question": "The efficiency of a Carnot engine working between $127^\\circ C$ and $27^\\circ C$ is:",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctOption": "25%",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "Convert temperatures to Kelvin: $T_H = 127 + 273 = 400 K$, $T_C = 27 + 273 = 300 K$. Efficiency $\\eta = 1 - (T_C/T_H) = 1 - (300/400) = 1 - 3/4 = 1/4 = 0.25 = 25\\%$."
+  },
+  {
+    "questionId": "q065",
+    "question": "Which of the following is not a property of electromagnetic waves?",
+    "options": [
+      "They are transverse waves.",
+      "They can travel through vacuum.",
+      "They carry energy and momentum.",
+      "They require a medium for propagation."
+    ],
+    "correctOption": "They require a medium for propagation.",
+    "subject": "Physics",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy",
+    "source": "Basic Electromagnetism",
+    "explanation": "Electromagnetic waves are unique in that they do not require a material medium for their propagation and can travel through a vacuum."
+  },
+  {
+    "questionId": "q066",
+    "question": "The number of lone pairs of electrons on the central atom of $NH_3$ is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctOption": "1",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Nitrogen has 5 valence electrons. In $NH_3$, it forms 3 single bonds with hydrogen atoms, using 3 electrons. The remaining 2 electrons form one lone pair."
+  },
+  {
+    "questionId": "q067",
+    "question": "The molarity of a solution containing 4 g of NaOH in 250 mL of solution is (Molar mass of NaOH = 40 g/mol):",
+    "options": [
+      "0.1 M",
+      "0.2 M",
+      "0.4 M",
+      "0.8 M"
+    ],
+    "correctOption": "0.4 M",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "Moles of NaOH = mass / molar mass = $4 \\text{ g} / 40 \\text{ g/mol} = 0.1 \\text{ mol}$. Volume of solution in Liters = $250 \\text{ mL} / 1000 = 0.25 \\text{ L}$. Molarity = moles of solute / volume of solution (in L) = $0.1 \\text{ mol} / 0.25 \\text{ L} = 0.4$ M."
+  },
+  {
+    "questionId": "q068",
+    "question": "Which of the following processes is associated with the conversion of a solid directly into a gas?",
+    "options": [
+      "Melting",
+      "Boiling",
+      "Sublimation",
+      "Condensation"
+    ],
+    "correctOption": "Sublimation",
+    "subject": "Chemistry",
+    "topic": "States of Matter",
+    "difficulty": "Easy",
+    "source": "Basic Chemistry",
+    "explanation": "Sublimation is the process where a solid changes directly into a gas without passing through the liquid phase."
+  },
+  {
+    "questionId": "q069",
+    "question": "The product formed when ethanol is oxidized with acidified $K_2Cr_2O_7$ is:",
+    "options": [
+      "Ethanal",
+      "Ethanoic acid",
+      "Ethene",
+      "Methane"
+    ],
+    "correctOption": "Ethanoic acid",
+    "subject": "Chemistry",
+    "topic": "Organic Reactions",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "Acidified potassium dichromate ($K_2Cr_2O_7$) is a strong oxidizing agent. It oxidizes primary alcohols like ethanol first to aldehydes (ethanal) and then further to carboxylic acids (ethanoic acid)."
+  },
+  {
+    "questionId": "q070",
+    "question": "The common name of $CH_3COCH_3$ is:",
+    "options": [
+      "Acetone",
+      "Propanal",
+      "Formic acid",
+      "Acetaldehyde"
+    ],
+    "correctOption": "Acetone",
+    "subject": "Chemistry",
+    "topic": "Nomenclature of Organic Compounds",
+    "difficulty": "Easy",
+    "source": "Basic Organic Chemistry",
+    "explanation": "$CH_3COCH_3$ is propanone, commonly known as acetone."
+  },
+  {
+    "questionId": "q071",
+    "question": "The value of $\\int \\sec^2 x dx$ is:",
+    "options": [
+      "$\\tan x + C$",
+      "$\\cot x + C$",
+      "$\\sec x + C$",
+      "$- \\csc x + C$"
+    ],
+    "correctOption": "$\\tan x + C$",
+    "subject": "Mathematics",
+    "topic": "Integration",
+    "difficulty": "Easy",
+    "source": "Basic Calculus",
+    "explanation": "The integral of $\\sec^2 x$ is $\\tan x$. So, $\\int \\sec^2 x dx = \\tan x + C$, where C is the constant of integration."
+  },
+  {
+    "questionId": "q072",
+    "question": "The number of tangents that can be drawn from an external point to a circle is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Infinite"
+    ],
+    "correctOption": "2",
+    "subject": "Mathematics",
+    "topic": "Circles",
+    "difficulty": "Easy",
+    "source": "Basic Geometry",
+    "explanation": "From an external point, exactly two tangents can be drawn to a circle."
+  },
+  {
+    "questionId": "q073",
+    "question": "The general solution of the differential equation $dy/dx = y$ is:",
+    "options": [
+      "$y = x + C$",
+      "$y = e^x + C$",
+      "$y = Ce^x$",
+      "$y = C/e^x$"
+    ],
+    "correctOption": "$y = Ce^x$",
+    "subject": "Mathematics",
+    "topic": "Differential Equations",
+    "difficulty": "Medium",
+    "source": "Basic Differential Equations",
+    "explanation": "This is a separable differential equation. $dy/y = dx$. Integrating both sides: $\\ln|y| = x + C'$, where $C'$ is the integration constant. Exponentiating both sides: $|y| = e^{x+C'} = e^x e^{C'}$. Let $C = \\pm e^{C'}$. Then $y = Ce^x$."
+  },
+  {
+    "questionId": "q074",
+    "question": "If $P(A) = 0.5$ and $P(B) = 0.4$, and $P(A \\cap B) = 0.2$, then $P(A \\cup B)$ is:",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ],
+    "correctOption": "0.7",
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "source": "Basic Probability",
+    "explanation": "Using the formula for the probability of the union of two events: $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$. So, $P(A \\cup B) = 0.5 + 0.4 - 0.2 = 0.9 - 0.2 = 0.7$."
+  },
+  {
+    "questionId": "q075",
+    "question": "The image of the point $(2,3)$ with respect to the x-axis is:",
+    "options": [
+      "$(2,-3)$",
+      "$(-2,3)$",
+      "$(-2,-3)$",
+      "$(3,2)$"
+    ],
+    "correctOption": "$(2,-3)$",
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy",
+    "source": "Basic Coordinate Geometry",
+    "explanation": "When reflecting a point $(x,y)$ across the x-axis, the x-coordinate remains the same and the y-coordinate changes sign. So, the image of $(2,3)$ is $(2,-3)$."
+  },
+  {
+    "questionId": "q076",
+    "question": "The escape velocity from the Earth's surface is approximately:",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "1.414 km/s",
+      "9.8 km/s"
+    ],
+    "correctOption": "11.2 km/s",
+    "subject": "Physics",
+    "topic": "Gravitation",
+    "difficulty": "Easy",
+    "source": "Basic Physics Values",
+    "explanation": "The escape velocity from the Earth's surface is approximately 11.2 km/s."
+  },
+  {
+    "questionId": "q077",
+    "question": "The equivalent capacitance of two capacitors $C_1$ and $C_2$ connected in series is:",
+    "options": [
+      "$C_1 + C_2$",
+      "$(C_1 C_2) / (C_1 + C_2)$",
+      "$(C_1 + C_2) / (C_1 C_2)$",
+      "$C_1 - C_2$"
+    ],
+    "correctOption": "$(C_1 C_2) / (C_1 + C_2)$",
+    "subject": "Physics",
+    "topic": "Capacitance",
+    "difficulty": "Easy",
+    "source": "Basic Electricity",
+    "explanation": "For capacitors in series, the reciprocal of the equivalent capacitance is the sum of the reciprocals of individual capacitances: $1/C_{eq} = 1/C_1 + 1/C_2 = (C_1 + C_2) / (C_1 C_2)$. Therefore, $C_{eq} = (C_1 C_2) / (C_1 + C_2)$."
+  },
+  {
+    "questionId": "q078",
+    "question": "The number of significant figures in 0.00500 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctOption": "3",
+    "subject": "Physics",
+    "topic": "Units and Measurements",
+    "difficulty": "Easy",
+    "source": "Basic Physics Rules",
+    "explanation": "Leading zeros (0.00) are not significant. Trailing zeros after a decimal point (500) are significant. So, 0.00500 has three significant figures (5, 0, 0)."
+  },
+  {
+    "questionId": "q079",
+    "question": "According to Bohr's model, the radius of the $n^{th}$ orbit of a hydrogen atom is proportional to:",
+    "options": [
+      "$n$",
+      "$n^2$",
+      "$1/n$",
+      "$1/n^2$"
+    ],
+    "correctOption": "$n^2$",
+    "subject": "Physics",
+    "topic": "Atomic Structure",
+    "difficulty": "Medium",
+    "source": "Modern Physics",
+    "explanation": "According to Bohr's model, the radius of the $n^{th}$ orbit of a hydrogen atom is given by $r_n = n^2 a_0$, where $a_0$ is the Bohr radius. Thus, $r_n \\propto n^2$."
+  },
+  {
+    "questionId": "q080",
+    "question": "A force of 10 N acts on a body of mass 2 kg. The acceleration produced is:",
+    "options": [
+      "0.2 m/s²",
+      "2 m/s²",
+      "5 m/s²",
+      "20 m/s²"
+    ],
+    "correctOption": "5 m/s²",
+    "subject": "Physics",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy",
+    "source": "Basic Mechanics",
+    "explanation": "According to Newton's second law, $F = ma$. So, $a = F/m = 10 N / 2 kg = 5 m/s^2$."
+  },
+  {
+    "questionId": "q081",
+    "question": "The element with the highest electronegativity in the periodic table is:",
+    "options": [
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine"
+    ],
+    "correctOption": "Fluorine",
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Fluorine is the most electronegative element in the periodic table."
+  },
+  {
+    "questionId": "q082",
+    "question": "Which of the following is a naturally occurring polymer?",
+    "options": [
+      "Nylon",
+      "PVC",
+      "Starch",
+      "Polythene"
+    ],
+    "correctOption": "Starch",
+    "subject": "Chemistry",
+    "topic": "Polymers",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "Nylon, PVC (Polyvinyl chloride), and Polythene are synthetic polymers. Starch is a naturally occurring polysaccharide polymer found in plants."
+  },
+  {
+    "questionId": "q083",
+    "question": "The molecular formula of benzene is:",
+    "options": [
+      "$C_2H_6$",
+      "$C_6H_6$",
+      "$C_6H_{12}$",
+      "$C_4H_{10}$"
+    ],
+    "correctOption": "$C_6H_6$",
+    "subject": "Chemistry",
+    "topic": "Hydrocarbons",
+    "difficulty": "Easy",
+    "source": "Basic Organic Chemistry",
+    "explanation": "The molecular formula of benzene, an aromatic hydrocarbon, is $C_6H_6$."
+  },
+  {
+    "questionId": "q084",
+    "question": "The number of electrons in the valence shell of nitrogen in $NH_3$ is:",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctOption": "8",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "Nitrogen has 5 valence electrons. In $NH_3$, it forms 3 covalent bonds, sharing 3 electrons with hydrogen atoms. This means it effectively has 3 shared pairs (6 electrons) and 1 lone pair (2 electrons). So, the total number of electrons in its valence shell (octet) is $6+2=8$."
+  },
+  {
+    "questionId": "q085",
+    "question": "Which of the following has the highest dipole moment?",
+    "options": [
+      "$CCl_4$",
+      "$CHCl_3$",
+      "$CH_2Cl_2$",
+      "$CH_3Cl$"
+    ],
+    "correctOption": "$CH_3Cl$",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Hard",
+    "source": "JEE Advanced Past Year",
+    "explanation": "$CCl_4$ is symmetrical and has zero dipole moment. For $CH_3Cl$, $CHCl_3$, and $CH_2Cl_2$, the net dipole moment depends on the vector sum of bond dipoles. $CH_3Cl$ has the highest dipole moment because the C-Cl bond dipole is partially cancelled by the C-H bond dipoles in the other molecules due to their tetrahedral geometries, but $CH_3Cl$ has the least cancellation compared to $CH_2Cl_2$ and $CHCl_3$."
+  },
+  {
+    "questionId": "q086",
+    "question": "The domain of $f(x) = \\sqrt{x-2}$ is:",
+    "options": [
+      "$(-\\infty, 2]$",
+      "$[2, \\infty)$",
+      "$(2, \\infty)$",
+      "$(-\\infty, \\infty)$"
+    ],
+    "correctOption": "$[2, \\infty)$",
+    "subject": "Mathematics",
+    "topic": "Functions",
+    "difficulty": "Easy",
+    "source": "Basic Algebra",
+    "explanation": "For $\\sqrt{x-2}$ to be defined, the expression inside the square root must be non-negative. So, $x-2 \\ge 0 \\Rightarrow x \\ge 2$. Thus, the domain is $[2, \\infty)$."
+  },
+  {
+    "questionId": "q087",
+    "question": "If $\\vec{A}$ and $\\vec{B}$ are two vectors such that $|\\vec{A}| = 3$, $|\\vec{B}| = 4$ and the angle between them is $60^\\circ$, then $|\\vec{A} + \\vec{B}|$ is:",
+    "options": [
+      "5",
+      "$\\sqrt{37}$",
+      "7",
+      "$\\sqrt{13}$"
+    ],
+    "correctOption": "$\\sqrt{37}$",
+    "subject": "Mathematics",
+    "topic": "Vector Algebra",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "The magnitude of the resultant vector is given by $|\\vec{A} + \\vec{B}| = \\sqrt{|\\vec{A}|^2 + |\\vec{B}|^2 + 2|\\vec{A}||\\vec{B}|\\cos\\theta}$. So, $|\\vec{A} + \\vec{B}| = \\sqrt{3^2 + 4^2 + 2(3)(4)\\cos 60^\\circ} = \\sqrt{9 + 16 + 24(1/2)} = \\sqrt{25 + 12} = \\sqrt{37}$."
+  },
+  {
+    "questionId": "q088",
+    "question": "The equation of the circle with center (0,0) and radius 5 is:",
+    "options": [
+      "$x^2 + y^2 = 5$",
+      "$x^2 + y^2 = 25$",
+      "$(x-5)^2 + y^2 = 0$",
+      "$x^2 + (y-5)^2 = 0$"
+    ],
+    "correctOption": "$x^2 + y^2 = 25$",
+    "subject": "Mathematics",
+    "topic": "Circles",
+    "difficulty": "Easy",
+    "source": "Basic Coordinate Geometry",
+    "explanation": "The standard equation of a circle with center $(h,k)$ and radius $r$ is $(x-h)^2 + (y-k)^2 = r^2$. For center $(0,0)$ and radius $5$, the equation is $x^2 + y^2 = 5^2 = 25$."
+  },
+  {
+    "questionId": "q089",
+    "question": "The sum of the roots of the quadratic equation $2x^2 - 5x + 3 = 0$ is:",
+    "options": [
+      "$5/2$",
+      "$-5/2$",
+      "$3/2$",
+      "$-3/2$"
+    ],
+    "correctOption": "$5/2$",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "difficulty": "Easy",
+    "source": "Basic Algebra",
+    "explanation": "For a quadratic equation $ax^2 + bx + c = 0$, the sum of the roots is $-b/a$. Here, $a=2$, $b=-5$, $c=3$. So, sum of roots $= -(-5)/2 = 5/2$."
+  },
+  {
+    "questionId": "q090",
+    "question": "The general term of an Arithmetic Progression (AP) whose first term is 'a' and common difference is 'd' is:",
+    "options": [
+      "$a + (n-1)d$",
+      "$a + nd$",
+      "$an + d$",
+      "$a + n/d$"
+    ],
+    "correctOption": "$a + (n-1)d$",
+    "subject": "Mathematics",
+    "topic": "Sequences and Series",
+    "difficulty": "Easy",
+    "source": "Basic Algebra",
+    "explanation": "The $n^{th}$ term of an Arithmetic Progression is given by $a_n = a + (n-1)d$."
+  },
+  {
+    "questionId": "q091",
+    "question": "The phenomenon of beats is a result of:",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Interference",
+      "Diffraction"
+    ],
+    "correctOption": "Interference",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "source": "Basic Physics",
+    "explanation": "Beats are produced when two sound waves of slightly different frequencies interfere with each other."
+  },
+  {
+    "questionId": "q092",
+    "question": "What is the maximum number of spectral lines obtained when an electron jumps from $n=5$ to $n=1$ in a hydrogen atom?",
+    "options": [
+      "4",
+      "5",
+      "10",
+      "15"
+    ],
+    "correctOption": "10",
+    "subject": "Physics",
+    "topic": "Atomic Structure",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "The number of spectral lines emitted when an electron jumps from $n_2$ to $n_1$ is given by $N = (n_2 - n_1)(n_2 - n_1 + 1)/2$. Here, $n_2=5$ and $n_1=1$. So, $N = (5-1)(5-1+1)/2 = (4)(5)/2 = 20/2 = 10$."
+  },
+  {
+    "questionId": "q093",
+    "question": "The average kinetic energy of a gas molecule at a given temperature is proportional to:",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Volume",
+      "Number of moles"
+    ],
+    "correctOption": "Temperature",
+    "subject": "Physics",
+    "topic": "Kinetic Theory of Gases",
+    "difficulty": "Easy",
+    "source": "Basic Thermodynamics",
+    "explanation": "According to the kinetic theory of gases, the average kinetic energy of gas molecules is directly proportional to the absolute temperature of the gas ($KE_{avg} = (3/2)kT$)."
+  },
+  {
+    "questionId": "q094",
+    "question": "The unit of electromotive force (EMF) is:",
+    "options": [
+      "Ampere",
+      "Ohm",
+      "Volt",
+      "Watt"
+    ],
+    "correctOption": "Volt",
+    "subject": "Physics",
+    "topic": "Current Electricity",
+    "difficulty": "Easy",
+    "source": "Basic Electricity",
+    "explanation": "The SI unit of electromotive force (EMF) is Volt (V)."
+  },
+  {
+    "questionId": "q095",
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Force",
+      "Work"
+    ],
+    "correctOption": "Work",
+    "subject": "Physics",
+    "topic": "Vectors and Scalars",
+    "difficulty": "Easy",
+    "source": "Basic Physics",
+    "explanation": "Work is a scalar quantity, possessing only magnitude. Velocity, acceleration, and force are vector quantities, possessing both magnitude and direction."
+  },
+  {
+    "questionId": "q096",
+    "question": "The number of covalent bonds in $N_2$ molecule is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctOption": "3",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "source": "NCERT Chemistry",
+    "explanation": "A nitrogen molecule ($N_2$) consists of two nitrogen atoms joined by a triple covalent bond (one sigma bond and two pi bonds)."
+  },
+  {
+    "questionId": "q097",
+    "question": "Which of the following is a primary amine?",
+    "options": [
+      "$CH_3NH_2$",
+      "$(CH_3)_2NH$",
+      "$(CH_3)_3N$",
+      "$C_6H_5NHC_2H_5$"
+    ],
+    "correctOption": "$CH_3NH_2$",
+    "subject": "Chemistry",
+    "topic": "Amines",
+    "difficulty": "Medium",
+    "source": "Basic Organic Chemistry",
+    "explanation": "Primary amines have one alkyl or aryl group attached to the nitrogen atom ($R-NH_2$). $CH_3NH_2$ (methylamine) is a primary amine. $(CH_3)_2NH$ is a secondary amine, $(CH_3)_3N$ is a tertiary amine, and $C_6H_5NHC_2H_5$ is a secondary amine."
+  },
+  {
+    "questionId": "q098",
+    "question": "The strongest acid among the following is:",
+    "options": [
+      "$HClO$",
+      "$HClO_2$",
+      "$HClO_3$",
+      "$HClO_4$"
+    ],
+    "correctOption": "$HClO_4$",
+    "subject": "Chemistry",
+    "topic": "P-Block Elements / Acid-Base Properties",
+    "difficulty": "Medium",
+    "source": "JEE Main Past Year",
+    "explanation": "For oxyacids of the same central atom, acidity increases with increasing oxidation state of the central atom (or increasing number of oxygen atoms). The oxidation states of Cl are +1, +3, +5, +7 respectively. Therefore, $HClO_4$ (perchloric acid) is the strongest acid."
+  },
+  {
+    "questionId": "q099",
+    "question": "The reagent used for the detection of aldehydes and ketones is:",
+    "options": [
+      "Tollens' reagent",
+      "Fehling's solution",
+      "Grignard reagent",
+      "Both A and B"
+    ],
+    "correctOption": "Both A and B",
+    "subject": "Chemistry",
+    "topic": "Aldehydes, Ketones and Carboxylic Acids",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "Tollens' reagent and Fehling's solution are both used to distinguish between aldehydes and ketones. Aldehydes give positive tests (silver mirror with Tollens', red precipitate with Fehling's), while ketones generally do not."
+  },
+  {
+    "questionId": "q100",
+    "question": "The number of chiral carbons in glucose is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctOption": "4",
+    "subject": "Chemistry",
+    "topic": "Biomolecules",
+    "difficulty": "Medium",
+    "source": "NCERT Chemistry",
+    "explanation": "Glucose is an aldohexose. Its open-chain structure has 6 carbon atoms. Carbon 1 is an aldehyde carbon, and carbon 6 is a primary alcohol. Carbons 2, 3, 4, and 5 are chiral carbons (attached to four different groups). Thus, there are 4 chiral carbons."
+  }
+]
